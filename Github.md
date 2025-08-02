@@ -1,0 +1,18 @@
+#HOW TO CREATE A REPOSITORY ON GITHUB
+- Go to your browser and type github.com
+- Click on create account and signup with your verifiable email address
+- Go back to your email and click on the email link sent to your mail by git and verify the email.
+- Go back to github and sign in to your dashboard
+- At the top right corner of your github dashboard, click on the plus icon (+)
+- Click on New Repository
+- Type in a unique name (e.g Ruth) under the repository name.
+- Scroll down and click on create a repository.
+- Go to your local terminal (VS Code)
+- Go to your working directory and type the command "cd ~"
+- Create a directory with the this command (mkdir directory name)
+- Do this command (ls)
+- Go into the new directory you created with this command (cd ~)
+- On your root directory type in this command (code .) to go your code editor
+- On your code editor, create a README file by click on the plus icon (+) on the top left corner of your code editor.
+- Type in your text and click on save
+- Go back to your terminal  
