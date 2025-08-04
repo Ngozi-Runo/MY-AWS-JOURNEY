@@ -16,7 +16,7 @@
 - On your code editor, create a README file by click on the plus icon (+) on the top left corner of your code editor.
 - Type in your text and click on save
 - Go back to your terminal and type this command (git init)
-- Then type (git status)
+-  Then type (git status)
 - Type this command (git add README)
 - Do this command commit your git (git commit -m "first commit")
 - Do this command (git branch -M main) 
